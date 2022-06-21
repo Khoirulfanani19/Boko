@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="15998" appversion="5.2.5" start="node1">
+  <panorama id="node1">
+    <input levelbiashidpi="0.400" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" levelingpitch="0" width="1520" height="1520" leveltilesize="510">
+      <level preload="0" width="1520" predecode="0" height="1520"/>
+      <level preload="0" width="760" predecode="0" height="760"/>
+      <level preload="1" width="380" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="173.29" tilt="1.66" fov="46.7" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="" info="" tags="Foto_Fix" description="Jalan masuk ke area Situs Ratu Boko" title="Jalan Masuk" author="" datetime="28/12/2021 8:39" latitude="" source="" comment="" customnodeid="" longitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" background="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" enabled="1" width="180" backgroundalpha="1" border="1" height="20" textcolor="0x000000" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot pan="172.83" tilt="2.83" url="{node2}" target="" description="" id="Point01" title="Gapuro Utama II" skinid="ht_node"/>
+      <hotspot pan="-179.06" tilt="-6.74" url="" target="" description="Gapuro pertama penanda akan masuk dalam area Situs Ratu Boko" id="Point02" title="Gapuro Utama I" skinid="ht_info"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendcolor="0x000000" softedge="0" zoomspeed="2" blendtime="1" zoomout="0" zoomfov="20" enabled="0" zoomin="0" zoomoutpause="1"/>
+    <control lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" hideabout="0" sensitivity="8" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="0.400" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" levelingpitch="0" width="1520" height="1520" leveltilesize="510">
+      <level preload="0" width="1520" predecode="0" height="1520"/>
+      <level preload="0" width="760" predecode="0" height="760"/>
+      <level preload="1" width="380" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="175.13" tilt="9" fov="41.8" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="" info="" tags="Foto_Fix" description="Area setelah memasuki Gapuro Utama I dan akan tampak Gapuro Utama II" title="Bagian Depan" author="" datetime="28/12/2021 8:40" latitude="" source="" comment="" customnodeid="" longitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" background="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" enabled="1" width="180" backgroundalpha="1" border="1" height="20" textcolor="0x000000" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot pan="-1.65" tilt="-5.65" url="{node1}" target="" description="" id="Point01" title="Jalan Masuk" skinid="ht_node"/>
+      <hotspot pan="177.65" tilt="12.06" url="{node3}" target="" description="" id="Point02" title="Taman" skinid="ht_node"/>
+      <hotspot pan="-97.33" tilt="-1.23" url="" target="" description="Candi Batu Putih berupa sebuah pondasi berukuran 5x5 meter yang terbuat dari batu kapur" id="Point03" title="Candi Batu Putih" skinid="ht_info"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendcolor="0x000000" softedge="0" zoomspeed="2" blendtime="1" zoomout="0" zoomfov="20" enabled="0" zoomin="0" zoomoutpause="1"/>
+    <control lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" hideabout="0" sensitivity="8" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="0.400" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" levelingpitch="0" width="1520" height="1520" leveltilesize="510">
+      <level preload="0" width="1520" predecode="0" height="1520"/>
+      <level preload="0" width="760" predecode="0" height="760"/>
+      <level preload="1" width="380" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="159.86" tilt="1.37" fov="41.8" projection="4"/>
+      <flyin pan="159.86" tilt="1.37" fov="41.8" projection="4"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="" info="" tags="Foto_Fix" description="Taman yang ada pada Situs Ratu Boko yang dijumpai setelah masuk lewat Gapuro Utama" title="Taman Bagian Depan" author="" datetime="28/12/2021 8:43" latitude="-7.769500" source="" comment="" customnodeid="" longitude="110.488556"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" background="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" enabled="1" width="180" backgroundalpha="1" border="1" height="20" textcolor="0x000000" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot pan="110.77" tilt="0.39" url="{node4}" target="$fwd" description="" id="Point01" title="Paseban" skinid="ht_node"/>
+      <hotspot pan="-15.32" tilt="1.01" url="{node2}" target="" description="" id="Point02" title="" skinid="ht_node"/>
+      <hotspot pan="-98.74" tilt="-0.24" url="" target="" description="Candi Pembakaran berupa bangunan berundak dengan tinggi 3 meter yang diduga digunakan sebagai tempat pembakaran mayat" id="Point03" title="Candi Pembakaran" skinid="ht_info"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendcolor="0x000000" softedge="0" zoomspeed="2" blendtime="1" zoomout="0" zoomfov="20" enabled="0" zoomin="0" zoomoutpause="1"/>
+    <control lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" hideabout="0" sensitivity="8" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="0.400" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" levelingpitch="0" width="1520" height="1520" leveltilesize="510">
+      <level preload="0" width="1520" predecode="0" height="1520"/>
+      <level preload="0" width="760" predecode="0" height="760"/>
+      <level preload="1" width="380" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="-141.08" tilt="-1.37" fov="46.7" projection="4"/>
+      <flyin pan="-141.08" tilt="-1.37" fov="46.7" projection="4"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="" info="" tags="Foto_Fix" description="Paseban (tempat menghadap raja) yang berada di bagian tengah Situs Ratu Boko berupa bangunan teras dengan ukuran tinggi 1,5 meter, lebarnya 7 meter, dan panjangnya 38 meter" title="Paseban Kembar" author="" datetime="28/12/2021 8:51" latitude="-7.770333" source="" comment="" customnodeid="" longitude="110.489222"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" background="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" enabled="1" width="180" backgroundalpha="1" border="1" height="20" textcolor="0x000000" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot pan="61.46" tilt="0.55" url="{node3}" target="$fwd" description="" id="Point01" title="Taman Bagian Depan" skinid="ht_node"/>
+      <hotspot pan="-125.71" tilt="-0.86" url="{node6}" target="" description="" id="Point02" title="Pendopo" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendcolor="0x000000" softedge="0" zoomspeed="2" blendtime="1" zoomout="0" zoomfov="20" enabled="0" zoomin="0" zoomoutpause="1"/>
+    <control lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" hideabout="0" sensitivity="8" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="0.400" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" levelingpitch="0" width="1520" height="1520" leveltilesize="510">
+      <level preload="0" width="1520" predecode="0" height="1520"/>
+      <level preload="0" width="760" predecode="0" height="760"/>
+      <level preload="1" width="380" predecode="1" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="43.39" tilt="-11.78" fov="41.8" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="" info="" tags="Foto_Fix" description="Bagian akhir dari Situs Ratu Boko berupa teras teras segi empat dan terlihat pula area Keputren serta terdapat Miniatur Candi" title="Teras-Teras Segi Empat" author="" datetime="28/12/2021 9:00" latitude="" source="" comment="" customnodeid="" longitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" background="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" enabled="1" width="180" backgroundalpha="1" border="1" height="20" textcolor="0x000000" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot pan="-54.39" tilt="-1.63" url="{node6}" target="" description="" id="Point01" title="" skinid="ht_node"/>
+      <hotspot pan="41.45" tilt="-25.62" url="" target="" description="Candi Miniatur berupa 3 buah bangunan candi kecil yang diduga digunakan sebagai tempat pemujaan" id="Point02" title="Candi Miniatur" skinid="ht_info"/>
+      <hotspot pan="145.32" tilt="-17.68" url="" target="" description="Keputren berupa bangunan persegi berdinding batu setinggi 2 meter dengan luas 8 meter x 31 meter yang terdiri dari beberapa kolam, diduga sebagai tempat pemandian raja dan bagi para wanita" id="Point03" title="Keputren" skinid="ht_info"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendcolor="0x000000" softedge="0" zoomspeed="2" blendtime="1" zoomout="0" zoomfov="20" enabled="0" zoomin="0" zoomoutpause="1"/>
+    <control lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" hideabout="0" sensitivity="8" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbiashidpi="0.400" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" levelingpitch="0" width="3328" height="3328" leveltilesize="510">
+      <level preload="0" width="3328" predecode="0" height="3328"/>
+      <level preload="0" width="1664" predecode="0" height="1664"/>
+      <level preload="0" width="832" predecode="0" height="832"/>
+      <level preload="1" width="416" predecode="1" height="416"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="83.93" tilt="-4.11" fov="41.8" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="4"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata copyright="Google" info="" tags="Foto_Fix" description="Pendopo terdiri atas batur pendapa dan pringgitan yang dikelilingi pagar batu dengan tiga gapura sebagai pintu masuk" title="Pendopo" author="" datetime="" latitude="" source="" comment="" customnodeid="" longitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textalpha="1" wordwrap="1" background="1" bordercolor="0x000000" backgroundcolor="0xffffff" borderradius="1" enabled="1" width="180" backgroundalpha="1" border="1" height="20" textcolor="0x000000" borderalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot pan="119.91" tilt="2.42" url="{node5}" target="" description="" id="Point01" title="Teras-Teras Segi Empat" skinid="ht_node"/>
+      <hotspot pan="-65.23" tilt="-3.41" url="{node4}" target="" description="" id="Point02" title="Paseban Kembar" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" blendcolor="0x000000" softedge="0" zoomspeed="2" blendtime="1" zoomout="0" zoomfov="20" enabled="0" zoomin="0" zoomoutpause="1"/>
+    <control lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" hideabout="0" sensitivity="8" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" invertwheel="0" contextprojections="0" lockedmouse="0" lockedkeyboard="0" invertcontrol="1"/>
+  </panorama>
+</tour>
